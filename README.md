@@ -1,3 +1,2 @@
-# finalpro
-this is my final frt project.
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+# Future Ready Talent finalproject
+#azure link https://vani-foodblog.azurewebsites.net
